@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ronan Films
+- 👀 I am A front and back end developer, general developer, and I am Content Creator on YouTube
+- 🌱 I am learning Javascript, Discord.js, html, css, php and a dimploma in music theory
+- 📫 You can reach me on my discord Ronan Films#0001 or my website ronanfilms.com
